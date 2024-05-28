@@ -9,15 +9,14 @@ const Hero = () => {
           href="https://www.producthunt.com/posts/shipfast-2?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-shipfast&#0045;2"
           target="_blank"
           className=" -mb-4 md:-mb-6 group"
-          title="Product Hunt link"
-        >
+          title="Product Hunt link">
         </a>
 
         <h1 className="font-extrabold text-4xl lg:text-6xl tracking-tight md:-mb-4">
-          Find your SaaS boilerplate and launch your project today!
+          Explore JiuJitsu clubs in Europe 
         </h1>
         <p className="text-lg opacity-80 leading-relaxed">
-          Make building software fun again. 
+          Where martial artists grow.  
         </p>
         <button className="btn btn-primary btn-wide">
           Explore {config.appName}
@@ -25,8 +24,8 @@ const Hero = () => {
       </div>
       <div className="lg:w-full">
         <Image
-          src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3540&q=80"
-          alt="Product Demo"
+          src=""
+          alt="Dojo"
           className="w-full"
           priority={true}
           width={500}

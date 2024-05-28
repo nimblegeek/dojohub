@@ -2,10 +2,10 @@ import themes from "daisyui/src/theming/themes";
 
 const config = {
   // REQUIRED
-  appName: "MakerHub",
+  appName: "Dojo Hub",
   // REQUIRED: a short description of your app for SEO tags (can be overwritten)
   appDescription:
-    "The hub for independent makers who want to launch, learn and earn",
+    "The hub for jiu jitsu practitioners and learners",
   // REQUIRED (no https://, not trialing slash at the end, just the naked domain)
   domainName: "makerhub.dev",
   crisp: {
